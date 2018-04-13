@@ -1,0 +1,6 @@
+Word = input('Enter a word: ')
+print(Word)
+n = len(Word)
+print('*'*(n+6))
+print('*'*2,Word,'*'*2)
+print('*'*(n+6))

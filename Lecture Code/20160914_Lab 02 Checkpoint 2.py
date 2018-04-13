@@ -1,0 +1,5 @@
+Four = input('Enter a four letter word: ')
+print(Four)
+print('*'*10)
+print('*'*2,Four,'*'*2)
+print('*'*10)
